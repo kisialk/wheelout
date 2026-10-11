@@ -1,0 +1,6 @@
+/*
+  Strict-Transport-Security: max-age=31536000; includeSubDomains
+/go/*
+  X-Robots-Tag: noindex, nofollow
+/pokerd/*
+  X-Robots-Tag: noindex, nofollow

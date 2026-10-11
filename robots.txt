@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /go/
+Disallow: /go
+Disallow: /pokerd/
+Disallow: /pokerd
+Disallow: /*?ref=
+Disallow: /*?aff=
+Disallow: /*?utm_
+Disallow: /*?fbclid=
+
+Sitemap: https://wheelout.vercel.app/sitemap.xml

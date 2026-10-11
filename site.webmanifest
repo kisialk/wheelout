@@ -1,0 +1,15 @@
+{
+  "name": "Wheel Out",
+  "short_name": "Wheel Out",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a120c",
+  "theme_color": "#1a120c",
+  "icons": [
+    {
+      "src": "/assets/favicon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ]
+}
